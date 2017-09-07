@@ -1,6 +1,6 @@
 
 <?php
-//Indicamos las imágenes a utilizar y donde se vá a guardar
+//Indicamos las imágenes a utilizar y donde se vá a guardar solo par aver
 $src = "imegenes/log1.png";
 $guardar_en="imegenes/imagen_resultante.png";
          
